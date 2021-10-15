@@ -1,0 +1,17 @@
+*~
+.DS_Store
+.svn
+*.asv
+*.aux
+*.bbl
+*.blg
+*.out
+*.log
+*.ist
+*.glo
+*.acn
+*.synctex
+*.synctex.gz
+*.asv
+paper.pdf
+models
